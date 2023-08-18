@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<p align="left">Find me form the below Social accounts of mine_</p>
+<h5 align="left">Find me form the below Social accounts of mine_</h5>
 
 ###
 
@@ -91,7 +91,8 @@
 
 <br clear="both">
 
-<div align="center">
+<h4 align ="left">Total Profile visits are in the below_<h4>
+<div align="left">
   <img src="https://profile-counter.glitch.me/pritam19-d/count.svg?"  />
 </div>
 
