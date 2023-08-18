@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">The below technologies I used to work on_</h3>
+<h3 align="left">The below tools & technologies I used to work on_</h3>
 
 ###
 
