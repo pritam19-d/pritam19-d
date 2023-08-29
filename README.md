@@ -94,7 +94,7 @@
 
 <br clear="both">
 
-<h4 align ="left">Total Profile visits are in the below_<h4>
+<h4 align ="left">Total clicks on my profile are in the below_<h4>
 <div align="left">
   <img src="https://profile-counter.glitch.me/pritam19-d/count.svg?"  />
 </div>
