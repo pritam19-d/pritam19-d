@@ -4,7 +4,7 @@
 
 ###
 
-<h5 align="left">I started learning the web development form the end 2022, and I used to work on the Git platform form 2023. <br>So as you can see am still devloping it.</h5>
+<h5 align="left">I started learning the web development form the end 2022, and I used to work on the Git platform form 2023. <br>So, as you can see here am still devloping and working on it.</h5>
 
 ###
 <h3 align="left">The below tools & technologies I used to work on_</h3>
