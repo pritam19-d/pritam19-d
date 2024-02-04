@@ -56,7 +56,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="pd.pritamdas19@gmail.com" target="_blank">
+  <a href="mailto:pd.pritamdas19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pritam19-d/" target="_blank">
