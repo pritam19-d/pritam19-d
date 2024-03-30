@@ -4,6 +4,7 @@
 
 ###
 
+<h4 align="left">MERN Stack learner, Cybersecuroity enthusiastic, as well as learning WEB 3.0 and how the de-centralized application works.</h4>
 <h5 align="left">I started learning the web development form the end 2022, and I used to work on the Git platform form 2023. <br>So, as you can see here am still devloping and working on it.</h5>
 
 ###
