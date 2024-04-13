@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<h3 align="left">Find me form the below Social accounts of mine_</h3>
+<h3 align="left">Connect me 👇</h3>
 
 ###
 
