@@ -81,27 +81,34 @@
 </div>
 
 ###
-
 <br clear="both">
 
 <!---<img src="https://raw.githubusercontent.com/pritam19-d/pritam19-d/output/snake.svg" alt="Snake animation" />--->
 
 ###
-
 <br clear="both">
 
+## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=pritam19-d&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="145" width="auto" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=pritam19-d&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="145" width="auto" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam19-d&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="145" width="auto" alt="most used languages" />
 </div>
 
-###
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=pritam19-d&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="github trophies" />
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="random quote" />
+
+### 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=pritam19-d&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" alt="top repositries" />
 
 <br clear="both">
-
-<h4 align ="left">Total clicks on my profile are in the below_<h4>
+<hr />
+<h4>Total clicks on my profile are in the below_<h4>
 <div align="left">
   <img src="https://profile-counter.glitch.me/pritam19-d/count.svg?"  />
 </div>
 
-###
+##
