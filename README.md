@@ -4,21 +4,20 @@
 
 ###
 
-<h4 align="left">MERN Stack learner, Cybersecuroity enthusiastic, as well as learning WEB 3.0 and how the de-centralized application works.</h4>
+<h4 align="left">MERN Stack specialist, Cybersecuroity enthusiastic, as well as learning WEB 3.0 and how the de-centralized application works.</h4>
 <h5 align="left">I started learning the web development form the end 2022, and I used to work on the Git platform form 2023. <br>So, as you can see here am still devloping and working on it.</h5>
-
-###
-<h3 align="left">The below tools and or technologies I have the experience to work on_</h3>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="220" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif"  />
+<h3 align="left">I have experience to work with the below tools and or technologies_</h3>
+
+<img align="right" width="50%" src="https://img95.lovepik.com/photo/40105/1581.gif_wh860.gif"  />
 
 ###
 
-<div align="center">
+<div align="center" background-color="white">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
@@ -31,17 +30,27 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="40" alt="axios logo"  />
+  <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
@@ -50,7 +59,7 @@
 
 <br clear="both">
 
-<h3 align="left">Connect me 👇</h3>
+## <h3 align="left">Connect with me 👇</h3>
 
 ###
 
@@ -69,6 +78,9 @@
   <a href="https://www.hackerrank.com/pritamdas1982000" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="63" height="30" alt="hackerrank logo"  />
   </a>
+  <a href="https://replit.com/@pritam19-d" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" width="63" height="30" alt="replit logo"  />
+  </a>
   <a href="https://instagram.com/pritam19.d" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="30" alt="instagram logo"  />
   </a>
@@ -82,8 +94,8 @@
 
 ###
 <br clear="both">
-
-<!---<img src="https://raw.githubusercontent.com/pritam19-d/pritam19-d/output/snake.svg" alt="Snake animation" />--->
+<h2>🐍 My Contributions </h2>
+<img src="https://raw.githubusercontent.com/pritam19-d/pritam19-d/output/snake-dark.svg" alt="Snake animation" />
 
 ###
 <br clear="both">
