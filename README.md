@@ -1,11 +1,10 @@
-<br clear="both">
+<h1 align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There !+👋;+It's+Pritam+here...;" />
+</h1>
 
-<h1 align="left">Hey There ! 👋 <br>It's Pritam here...</h1>
+<h3 align="left">A passionate & professional software developer from Kolkata, India.</h3>
 
-###
-
-<h4 align="left">MERN Stack specialist, Cybersecuroity enthusiastic, as well as learning WEB 3.0 and how the de-centralized application works.</h4>
-<h5 align="left">I started learning the web development form the end 2022, and I used to work on the Git platform form 2023. <br>So, as you can see here am still devloping and working on it.</h5>
+<h4 align="left">I'm a MERN Stack specialist, Cybersecuroity enthusiastic. <br /> Besides this, I am learning more about WEB 3.0 & the functionality of de-centralized applications.</h4>
 
 ###
 
@@ -57,6 +56,12 @@
 
 ###
 
+###
+<br clear="both">
+<h2>🐍 My Contributions </h2>
+<img alt="Snake animation" src="https://raw.githubusercontent.com/pritam19-d/pritam19-d/output/github-contribution-grid-snake-dark.svg"  />
+
+###
 <br clear="both">
 
 ## <h3 align="left">Connect with me 👇</h3>
@@ -92,18 +97,12 @@
   </a>
 </div>
 
-###
-<br clear="both">
-<h2>🐍 My Contributions </h2>
-<img src="https://raw.githubusercontent.com/pritam19-d/pritam19-d/output/snake-dark.svg" alt="Snake animation" />
-
-###
 <br clear="both">
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="145" width="auto" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=pritam19-d&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="145" width="auto" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="145" width="auto" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam19-d&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="145" width="auto" alt="most used languages" />
 </div>
 
