@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hey There ! 👋;+It's Pritam here...;" alt="Hey There ! 👋 It's Pritam here..." />
 </h1>
 
-<h3 align="left">A passionate & professional software developer from Kolkata, India.</h3>
+<h3 align="left">A passionate & professional web developer & data analyst from Kolkata, India.</h3>
 
 <h4 align="left">I'm a MERN Stack specialist, Cybersecuroity enthusiast. <br /> Besides this, I am learning more about WEB 3.0 & the functionality of de-centralized applications.</h4>
 
