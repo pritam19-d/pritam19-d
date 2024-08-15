@@ -1,25 +1,23 @@
 <h1 align="left">
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There !+👋;+It's+Pritam+here..." alt="Hey There ! 👋 It's Pritam here..." />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hey There ! 👋;+It's Pritam here...;" alt="Hey There ! 👋 It's Pritam here..." />
 </h1>
 
 <h3 align="left">A passionate & professional software developer from Kolkata, India.</h3>
 
-<h4 align="left">I'm a MERN Stack specialist, Cybersecuroity enthusiastic. <br /> Besides this, I am learning more about WEB 3.0 & the functionality of de-centralized applications.</h4>
-
-###
+<h4 align="left">I'm a MERN Stack specialist, Cybersecuroity enthusiast. <br /> Besides this, I am learning more about WEB 3.0 & the functionality of de-centralized applications.</h4>
 
 <br clear="both">
 
 <h3 align="left">I have experience to work with the below tools and or technologies_</h3>
 
-<img align="right" width="50%" src="https://img95.lovepik.com/photo/40105/1581.gif_wh860.gif"  />
+<img align="right" width="50%" src="https://img95.lovepik.com/photo/40105/1581.gif_wh860.gif" />
 
 ###
 
-<div align="center" background-color="white">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="32" />
@@ -31,7 +29,7 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="32" />
@@ -41,9 +39,9 @@
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="32" />
@@ -56,10 +54,15 @@
 
 ###
 
-###
 <br clear="both">
+
+### 🔝 Top Contributed Repos
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=pritam19-d&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" alt="top repositries" width="60%"/>
+</div>
+
 <h2>🐍 My Contributions </h2>
-<img alt="Snake animation" src="https://raw.githubusercontent.com/pritam19-d/pritam19-d/output/github-contribution-grid-snake-dark.svg"  />
+<img src="https://raw.githubusercontent.com/pritam19-d/pritam19-d/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 <br clear="both">
@@ -99,10 +102,10 @@
 
 <br clear="both">
 
-## 📊 GitHub Stats:
+## 📊 My GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pritam19-d&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="145" width="auto" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="145" width="auto" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=pritam19-d&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=1" height="145" width="auto" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=2" height="145" width="auto" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam19-d&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="145" width="auto" alt="most used languages" />
 </div>
 
@@ -110,10 +113,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=pritam19-d&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="github trophies" />
 
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="random quote" />
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=pritam19-d&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true" alt="top repositries" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="random quote" height="145" />
 
 <br clear="both">
 <hr />
