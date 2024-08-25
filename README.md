@@ -105,7 +105,7 @@
 ## 📊 My GitHub Stats:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pritam19-d&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=1" height="145" width="auto" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=2" height="145" width="auto" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=2&rank_icon=github" height="145" width="auto" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam19-d&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false&layout=donut" height="145" width="auto" alt="most used languages" />
 </div>
 
