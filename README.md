@@ -4,7 +4,8 @@
 
 <h3 align="left">A passionate & professional web developer & data analyst from Kolkata, India.</h3>
 
-<h4 align="left">I'm a MERN Stack specialist, Cybersecuroity enthusiast. <br /> Besides this, I am learning more about WEB 3.0 & the functionality of de-centralized applications.</h4>
+<h4 align="left">I'm a MERN Stack specialist, Cybersecuroity enthusiast. <br /> Besides this, I am learning more about WEB 3.0 & the functionality of de-centralized applications. <br />
+Right now I am working as a Data Analyst and Visualization Engineer in our company.</h4>
 
 <br clear="both">
 
