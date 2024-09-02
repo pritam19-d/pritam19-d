@@ -129,12 +129,4 @@ Besides this, I am learning more about WEB 3.0, the functionality of de-centrali
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="random quote" height="145" />
-
-<br clear="both">
 <hr />
-<h4>Total clicks on my profile are in the below_<h4>
-<div align="left">
-  <img src="https://profile-counter.glitch.me/pritam19-d/count.svg?"  />
-</div>
-
-##
