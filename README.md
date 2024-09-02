@@ -1,12 +1,22 @@
+<div >
+  <img src="https://visitcount.itsvg.in/api?id=pritam19-d&icon=3&color=3&pretty=true" alt="Profile views" align="right" />
 <h1 align="left">
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hey There ! 👋;+It's Pritam here...;" alt="Hey There ! 👋 It's Pritam here..." />
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&color=008B2FFF&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hey There ! 👋;+It's Pritam here...;" alt="Hey There ! 👋 It's Pritam here..." />
 </h1>
+</div>
 
-<h3 align="left">A passionate & professional web developer & data analyst from Kolkata, India.</h3>
+<h3 align="left">A passionate & professional Web Developer & Data Analyst from Kolkata, India.</h3>
 
-<h4 align="left">I'm a MERN Stack specialist, Cybersecuroity enthusiast. <br /> Besides this, I am learning more about WEB 3.0 & the functionality of de-centralized applications. <br />
-Right now I am working as a Data Analyst and Visualization Engineer in our company.</h4>
-
+<h4 align="left">MERN Stack specialist & Cybersecuroity enthusiast. <br />
+Am working as a Developer in Tata Consultency Services (TCS) Ltd.</h4>
+Besides this, I am learning more about WEB 3.0, the functionality of de-centralized applications. <br />
+<br clear="both">
+🔭 I’m currently working on something special 😉<br /> 
+👯 I’m looking to collaborate on Data Analysis and Report development on Power BI.<br /> 
+🤝 I’m looking for help with a new opportunity in the data field.<br /> 
+🌱 I’m currently learning Data Engineering.<br /> 
+💬 Ask me about Full-Stack Web development upon MERN tech track.<br /> 
+⚡ Fun fact about me: Am such person who sometimes forgot to have lunch while coding 😅<br />
 <br clear="both">
 
 <h3 align="left">I have experience to work with the below tools and or technologies_</h3>
@@ -22,7 +32,7 @@ Right now I am working as a Data Analyst and Visualization Engineer in our compa
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="32" />
@@ -30,13 +40,17 @@ Right now I am working as a Data Analyst and Visualization Engineer in our compa
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="redux logo"  />
+  <img width="32" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="40" alt="axios logo"  />
+  <img width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="30" alt="pandas logo"  />
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="32" />
