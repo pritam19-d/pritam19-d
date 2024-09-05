@@ -82,7 +82,7 @@ Besides this, I am learning more about WEB 3.0, the functionality of de-centrali
 ###
 <br clear="both">
 
-## <h3 align="left">Connect with me 👇</h3>
+## <h3 align="left">Find my other accounts on 👇</h3>
 
 ###
 
