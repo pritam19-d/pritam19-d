@@ -14,7 +14,7 @@ Besides this, I am learning more about WEB 3.0, the functionality of de-centrali
 🔭 I’m currently working on something special 😉<br /> 
 👯 I’m looking to collaborate on Data Analysis and Report development on Power BI.<br /> 
 🤝 I’m looking for help with a new opportunity in the data field.<br /> 
-🌱 I’m currently learning Data Engineering.<br /> 
+🌱 I’m currently learning new skills to stand on the field of Data Science.<br /> 
 💬 Ask me about Full-Stack Web development upon MERN tech track.<br /> 
 ⚡ Fun fact about me: Am such person who sometimes forgot to have lunch while coding 😅<br />
 <br clear="both">
