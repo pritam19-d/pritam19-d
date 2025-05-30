@@ -1,7 +1,7 @@
 <div >
   <img src="https://komarev.com/ghpvc/?username=pritam19-d&abbreviated=true&style=plastic&color=brightgreen&label=Visitos" alt="Profile views" align="right" />
 <h1 align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=008B2F&width=500&lines=Hey+There+!+%F0%9F%91%8B;It's+Pritam+here..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=008B2F&width=500&lines=Hey+There+!+%F0%9F%91%8B;It's+Pritam+here..." alt="Hey There ! 👋 It's Pritam here..." /></a>
 </h1>
 </div>
 
