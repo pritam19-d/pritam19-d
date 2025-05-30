@@ -1,7 +1,7 @@
 <div >
-  <img src="https://visitcount.itsvg.in/api?id=pritam19-d&icon=3&color=3&pretty=true" alt="Profile views" align="right" />
+  <img src="https://komarev.com/ghpvc/?username=pritam19-d&abbreviated=true&style=plastic&color=brightgreen&label=Visitos" alt="Profile views" align="right" />
 <h1 align="left">
-<img src="https://readme-typing-svg.demolab.com/?font=Righteous&color=008B2FFF&size=35&center=false&vCenter=true&width=500&height=70&duration=3000&lines=Hey There ! 👋;+It's Pritam here...;" alt="Hey There ! 👋 It's Pritam here..." />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=008B2F&width=500&lines=Hey+There+!+%F0%9F%91%8B;It's+Pritam+here..." alt="Typing SVG" /></a>
 </h1>
 </div>
 
