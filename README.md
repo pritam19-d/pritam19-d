@@ -19,6 +19,9 @@ Besides this, I am learning more about WEB 3.0, the functionality of de-centrali
 ⚡ Fun fact about me: Am such person who sometimes forgot to have lunch while coding 😅<br />
 <br clear="both">
 
+```
+const Pritam = { passion: "Web Dev", mindset: "Growth", vibe: "Tech with Taste" }
+```
 <h3 align="left">I have experience to work with the below tools and or technologies_</h3>
 
 <img align="right" width="50%" src="https://img95.lovepik.com/photo/40105/1581.gif_wh860.gif" />
@@ -66,6 +69,7 @@ Besides this, I am learning more about WEB 3.0, the functionality of de-centrali
   <img width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
 
 ###
 
