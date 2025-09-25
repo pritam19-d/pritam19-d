@@ -5,14 +5,14 @@
 </h1>
 </div>
 
-<h3 align="left">A passionate & professional Web Developer & Data Analyst from Kolkata, India.</h3>
+<h3 align="left">I'm A Professional Full Stack Developer from Kolkata, India.</h3>
 
 <h4 align="left">MERN Stack specialist & Cybersecuroity enthusiast. <br />
 Am working as a Developer in Tata Consultency Services (TCS) Ltd.</h4>
 Besides this, I am learning more about WEB 3.0, the functionality of de-centralized applications. <br />
 <br clear="both">
 🔭 I’m currently working on something special 😉<br /> 
-👯 I’m looking to collaborate on Data Analysis and Report development on Power BI.<br /> 
+👯 I’m looking to collaborate on Full Stack Web Development and Deployment.<br /> 
 🤝 I’m looking for help with a new opportunity in the data field.<br /> 
 🌱 I’m currently learning new skills to stand on the field of Data Science.<br /> 
 💬 Ask me about Full-Stack Web development upon MERN tech track.<br /> 
