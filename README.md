@@ -123,13 +123,13 @@ const Pritam = { passion: "Web Dev", mindset: "Growth", vibe: "Tech with Taste" 
 
 ## 📊 My GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pritam19-d&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=1" height="145" width="auto" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true" height="145" width="auto" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=pritam19-d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&rank_icon=github&locale=en&hide_border=false&order=2" height="145" width="auto" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam19-d&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&disable_animations=false&layout=donut" height="145" width="auto" alt="most used languages" />
 </div>
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=pritam19-d&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="github trophies" />
+<img src="https://github-trophies.vercel.app/?username=pritam19-d&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="github trophies" />
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" alt="random quote" height="145" />
